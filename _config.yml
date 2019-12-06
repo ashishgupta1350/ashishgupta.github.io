@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Ashish Gupta"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a software engineer and a developer. I am also a NLP researcher at DTU."
+  avatar           : "/images/ashish.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a software engineer and a developer. I am also a NLP researcher at DTU Delhi."
   location         : "Delhi, India"
   email            :
   links:
