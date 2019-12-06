@@ -3,7 +3,7 @@ title: "Machine Learning: Hindi-English-Code-Mixed-Stemmer
 date: 2019-11-07
 tags: [machine learning, data science, natural language processing, nlp]
 header:
-  image: "/images/banner.jpg"
+  image: "/images/banner.png"
 excerpt: "Machine Learning, NLP, Stemmer"
 ---
 
